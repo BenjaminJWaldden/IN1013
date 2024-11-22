@@ -1,4 +1,4 @@
-- 1
+-- 1
 SELECT sum(bill_total) AS Income 
 FROM restBill;
 
